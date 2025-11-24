@@ -1,0 +1,32 @@
+{
+  "name": "rust-base-generator",
+  "version": "1.0.0",
+  "description": "ML-powered Rust game base generator and optimizer",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "import": "node dist/cli.js import",
+    "train": "node dist/cli.js train",
+    "generate": "node dist/cli.js generate",
+    "evaluate": "node dist/cli.js evaluate",
+    "simulate": "node dist/cli.js simulate"
+  },
+  "keywords": ["rust-game", "ml", "base-generator", "tensorflow"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^5.3.0"
+  },
+  "optionalDependencies": {
+    "@tensorflow/tfjs-node": "^4.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "tsx": "^4.6.0",
+    "typescript": "^5.3.2"
+  }
+}

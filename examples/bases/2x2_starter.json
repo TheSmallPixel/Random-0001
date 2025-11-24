@@ -1,0 +1,39 @@
+{
+  "id": "2x2_starter_001",
+  "name": "2x2 Starter Base",
+  "dimensions": [8, 8, 4],
+  "grid": [
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[{"type":"foundation","material":2,"health":500,"isExternal":false,"softSide":false,"rotation":0},null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[{"type":"wall","material":2,"health":500,"isExternal":true,"softSide":false,"rotation":0},null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]],
+    [[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null],[null,null,null,null]]
+  ],
+  "toolCupboards": [
+    { "x": 3, "y": 3, "z": 0 }
+  ],
+  "beds": [
+    { "x": 4, "y": 3, "z": 0 }
+  ],
+  "lootRooms": [
+    {
+      "position": { "x": 3, "y": 4, "z": 0 },
+      "value": 5000,
+      "priority": 8,
+      "containers": 2
+    }
+  ],
+  "metadata": {
+    "upkeepCost": {
+      "stone": 800,
+      "metal_fragments": 200
+    },
+    "totalPieces": 2,
+    "footprint": [8, 8, 4],
+    "author": "Example",
+    "createdAt": "2025-11-22"
+  }
+}

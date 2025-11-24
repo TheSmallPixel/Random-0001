@@ -1,0 +1,1512 @@
+{
+  "id": "fortify_compact_1763848930602",
+  "name": "Fortify Import",
+  "dimensions": [
+    10,
+    10,
+    9
+  ],
+  "grid": [
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "ceiling",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "ceiling",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "ceiling",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "ceiling",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 2
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "type": "ceiling",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "ceiling",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  ],
+  "toolCupboards": [
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2
+    }
+  ],
+  "beds": [
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2
+    }
+  ],
+  "lootRooms": [
+    {
+      "position": {
+        "x": 4,
+        "y": 5,
+        "z": 3
+      },
+      "value": 20000,
+      "priority": 8,
+      "containers": 6
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 5,
+        "z": 3
+      },
+      "value": 20000,
+      "priority": 8,
+      "containers": 6
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 5,
+        "z": 3
+      },
+      "value": 20000,
+      "priority": 8,
+      "containers": 6
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 5,
+        "z": 4
+      },
+      "value": 25000,
+      "priority": 9,
+      "containers": 7
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 6,
+        "z": 4
+      },
+      "value": 25000,
+      "priority": 9,
+      "containers": 7
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 5,
+        "z": 4
+      },
+      "value": 25000,
+      "priority": 9,
+      "containers": 7
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 6,
+        "z": 4
+      },
+      "value": 25000,
+      "priority": 9,
+      "containers": 7
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 5,
+        "z": 4
+      },
+      "value": 25000,
+      "priority": 9,
+      "containers": 7
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 6,
+        "z": 4
+      },
+      "value": 25000,
+      "priority": 9,
+      "containers": 7
+    }
+  ],
+  "metadata": {
+    "upkeepCost": {
+      "wood": 0,
+      "stone": 400,
+      "metal_fragments": 0,
+      "high_quality_metal": 0
+    },
+    "totalPieces": 40,
+    "footprint": [
+      10,
+      10,
+      9
+    ],
+    "author": "Fortify Import",
+    "createdAt": "2025-11-22T22:02:10.602Z"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "name": "2x2 Fortify Base",
+  "description": "Example base exported from Fortify",
+  "version": "1.0",
+  "pieces": [
+    {
+      "id": "foundation_1",
+      "type": "foundation",
+      "grade": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "foundation_2",
+      "type": "foundation",
+      "grade": 2,
+      "x": 1.5,
+      "y": 0,
+      "z": 0,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "foundation_3",
+      "type": "foundation",
+      "grade": 2,
+      "x": 0,
+      "y": 1.5,
+      "z": 0,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "foundation_4",
+      "type": "foundation",
+      "grade": 2,
+      "x": 1.5,
+      "y": 1.5,
+      "z": 0,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "wall_1",
+      "type": "wall",
+      "grade": 2,
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "wall_2",
+      "type": "wall",
+      "grade": 2,
+      "x": 1.5,
+      "y": 0,
+      "z": 1,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "wall_3",
+      "type": "wall",
+      "grade": 2,
+      "x": 0,
+      "y": 1.5,
+      "z": 1,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "wall_doorway",
+      "type": "wall.doorway",
+      "grade": 2,
+      "x": 1.5,
+      "y": 1.5,
+      "z": 1,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "floor_1",
+      "type": "floor",
+      "grade": 2,
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "floor_2",
+      "type": "floor",
+      "grade": 2,
+      "x": 1.5,
+      "y": 0,
+      "z": 2,
+      "rotationIndex": 0,
+      "health": 500
+    },
+    {
+      "id": "floor_3",
+      "type": "floor",
+      "grade": 3,
+      "x": 0,
+      "y": 1.5,
+      "z": 2,
+      "rotationIndex": 0,
+      "health": 1000
+    },
+    {
+      "id": "floor_4",
+      "type": "floor",
+      "grade": 3,
+      "x": 1.5,
+      "y": 1.5,
+      "z": 2,
+      "rotationIndex": 0,
+      "health": 1000
+    },
+    {
+      "id": "cupboard_1",
+      "type": "cupboard.tool",
+      "grade": 0,
+      "x": 0.75,
+      "y": 0.75,
+      "z": 1,
+      "rotationIndex": 0
+    },
+    {
+      "id": "bed_1",
+      "type": "bed",
+      "grade": 0,
+      "x": 0.75,
+      "y": 0.75,
+      "z": 2,
+      "rotationIndex": 0
+    }
+  ]
+}

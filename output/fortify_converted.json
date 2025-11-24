@@ -1,0 +1,447 @@
+{
+  "id": "fortify_1763846855918",
+  "name": "2x2 Fortify Base",
+  "dimensions": [
+    6,
+    6,
+    6
+  ],
+  "grid": [
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": true,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "floor",
+          "material": 3,
+          "health": 1000,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "wall",
+          "material": 2,
+          "health": 500,
+          "isExternal": true,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "floor",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "type": "foundation",
+          "material": 2,
+          "health": 500,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "doorway",
+          "material": 2,
+          "health": 500,
+          "isExternal": true,
+          "softSide": false,
+          "rotation": 0
+        },
+        {
+          "type": "floor",
+          "material": 3,
+          "health": 1000,
+          "isExternal": false,
+          "softSide": false,
+          "rotation": 0
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  ],
+  "toolCupboards": [
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3
+    }
+  ],
+  "beds": [
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4
+    }
+  ],
+  "lootRooms": [
+    {
+      "position": {
+        "x": 2,
+        "y": 3,
+        "z": 4
+      },
+      "value": 20000,
+      "priority": 9,
+      "containers": 8
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 2,
+        "z": 4
+      },
+      "value": 20000,
+      "priority": 9,
+      "containers": 8
+    }
+  ],
+  "metadata": {
+    "upkeepCost": {
+      "wood": 0,
+      "stone": 120,
+      "metal_fragments": 20,
+      "high_quality_metal": 0
+    },
+    "totalPieces": 14,
+    "footprint": [
+      6,
+      6,
+      6
+    ],
+    "author": "Fortify Import",
+    "createdAt": "2025-11-22T21:27:35.918Z"
+  }
+}
